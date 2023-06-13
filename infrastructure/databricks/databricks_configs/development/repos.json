@@ -1,13 +1,13 @@
 {
     "Git_Configuration":  [
                               {
-                                  "git_username":  "ciaran28",
+                                  "git_username":  "edwinprins",
                                   "git_provider":  "gitHub"
                               }
                           ],
     "Repo_Configuration":  [
                                {
-                                   "url":  "https://github.com/ciaran28/dstoolkit-mlops-databricks",
+                                   "url":  "https://github.com/sky-dust-intelligence/dstoolkit-mlops-databricks.git",
                                    "provider":  "gitHub",
                                    "path":  "DevelopmentFolder",
                                    "branch":  "main"
